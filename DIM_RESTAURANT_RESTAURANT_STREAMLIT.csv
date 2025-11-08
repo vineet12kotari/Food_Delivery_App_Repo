@@ -1,0 +1,1001 @@
+RESTAURANT_ID,RESTAURANT_NAME,CITY,CUISINE_TYPE,AVERAGE_RATING,COMMISSION_RATE
+R0001,Sarna-Raju Eatery,Hyderabad,Mexican,4.69,0.270
+R0002,Shenoy-Mallick Eatery,Pune,Healthy,4.63,0.316
+R0003,"Sabharwal, Devi and Vala Eatery",Kolkata,Indian,4.24,0.225
+R0004,Shanker-Garde Eatery,Ahmedabad,Dessert,4.16,0.237
+R0005,"Badami, Puri and Grover Eatery",Mumbai,Fast Food,3.39,0.302
+R0006,Lalla and Sons Eatery,Mumbai,Healthy,4.79,0.270
+R0007,Issac-Randhawa Eatery,Bengaluru,Dessert,3.94,0.343
+R0008,Brahmbhatt PLC Eatery,Chennai,Indian,3.72,0.233
+R0009,"Din, Jayaraman and Singh Eatery",Hyderabad,Dessert,4.87,0.335
+R0010,"Sane, Gopal and Pandey Eatery",Kolkata,Italian,4.30,0.269
+R0011,Deshmukh Inc Eatery,Chennai,Mexican,4.13,0.243
+R0012,Kara LLC Eatery,Hyderabad,Italian,4.59,0.276
+R0013,Sankar-Chander Eatery,Ahmedabad,Italian,3.27,0.272
+R0014,"Ramakrishnan, Salvi and Nanda Eatery",Kolkata,Indian,3.28,0.280
+R0015,"Maharaj, Srivastava and Doctor Eatery",Chennai,Healthy,4.61,0.272
+R0016,Basak Ltd Eatery,Delhi,Mexican,3.26,0.266
+R0017,"Balakrishnan, Srinivas and Gara Eatery",Mumbai,Indian,4.23,0.216
+R0018,"Sani, Dass and Andra Eatery",Chennai,Chinese,4.65,0.207
+R0019,"Sahni, Biswas and Varughese Eatery",Kolkata,Healthy,4.61,0.226
+R0020,Ben Ltd Eatery,Hyderabad,Mexican,3.93,0.270
+R0021,Mammen-Menon Eatery,Pune,Mexican,3.46,0.304
+R0022,Chaudhuri-Bajaj Eatery,Mumbai,Italian,4.28,0.334
+R0023,Prabhu LLC Eatery,Hyderabad,Mexican,4.53,0.335
+R0024,Lad Inc Eatery,Hyderabad,Chinese,3.86,0.266
+R0025,Parikh-Zachariah Eatery,Mumbai,Fast Food,3.18,0.220
+R0026,Kala LLC Eatery,Kolkata,Chinese,4.23,0.279
+R0027,Purohit Group Eatery,Hyderabad,Chinese,4.29,0.314
+R0028,Singhal PLC Eatery,Delhi,Italian,4.58,0.314
+R0029,Malhotra PLC Eatery,Hyderabad,Mexican,3.19,0.280
+R0030,Ratta and Sons Eatery,Mumbai,Healthy,3.31,0.271
+R0031,Konda Group Eatery,Ahmedabad,Healthy,3.19,0.226
+R0032,Iyer-Wali Eatery,Chennai,Italian,4.80,0.202
+R0033,"Ghosh, Saraf and Dhar Eatery",Mumbai,Italian,3.56,0.204
+R0034,"Johal, Dhillon and Sathe Eatery",Mumbai,Dessert,4.16,0.339
+R0035,Karan-Peri Eatery,Kolkata,Chinese,3.06,0.279
+R0036,"Ganesh, Barad and Kaur Eatery",Pune,Mexican,4.22,0.252
+R0037,Gara-Kadakia Eatery,Chennai,Mexican,3.27,0.209
+R0038,Bal Group Eatery,Bengaluru,Indian,3.31,0.341
+R0039,Murty Group Eatery,Ahmedabad,Mexican,3.68,0.298
+R0040,Subramaniam-Bakshi Eatery,Pune,Chinese,3.87,0.243
+R0041,Dhingra Inc Eatery,Hyderabad,Healthy,4.45,0.222
+R0042,"Venkatesh, Yohannan and Mani Eatery",Chennai,Fast Food,3.59,0.337
+R0043,"Ben, More and Hayre Eatery",Ahmedabad,Fast Food,4.08,0.256
+R0044,Sekhon-Basak Eatery,Ahmedabad,Italian,3.31,0.298
+R0045,Dubey LLC Eatery,Pune,Dessert,4.71,0.284
+R0046,Tandon-Tella Eatery,Delhi,Dessert,4.89,0.252
+R0047,"Jayaraman, Sachdeva and Gala Eatery",Bengaluru,Italian,4.35,0.329
+R0048,Yadav and Sons Eatery,Ahmedabad,Indian,3.06,0.335
+R0049,"Nath, Basu and Banerjee Eatery",Chennai,Italian,4.11,0.223
+R0050,Narula and Sons Eatery,Bengaluru,Chinese,4.61,0.310
+R0051,Boase Ltd Eatery,Ahmedabad,Mexican,3.63,0.240
+R0052,Gulati Inc Eatery,Pune,Italian,4.38,0.303
+R0053,Chaudhary-Bedi Eatery,Chennai,Fast Food,3.20,0.307
+R0054,"Soman, Shukla and Dhar Eatery",Ahmedabad,Indian,3.73,0.232
+R0055,Mody Inc Eatery,Pune,Chinese,3.26,0.347
+R0056,"Raval, Bhardwaj and Nigam Eatery",Ahmedabad,Fast Food,3.67,0.225
+R0057,Manda and Sons Eatery,Ahmedabad,Chinese,4.18,0.252
+R0058,Naik-Rattan Eatery,Hyderabad,Healthy,4.38,0.260
+R0059,"Thakur, Wali and Divan Eatery",Chennai,Fast Food,4.69,0.312
+R0060,Sen-Parekh Eatery,Hyderabad,Mexican,4.10,0.304
+R0061,"Dyal, Deshpande and Hayer Eatery",Mumbai,Chinese,3.73,0.324
+R0062,"Sarin, Nadkarni and Rajan Eatery",Delhi,Mexican,4.22,0.211
+R0063,"Korpal, Sandal and Lala Eatery",Hyderabad,Fast Food,3.27,0.309
+R0064,Iyer Ltd Eatery,Kolkata,Chinese,4.52,0.281
+R0065,Bal Ltd Eatery,Ahmedabad,Mexican,3.18,0.255
+R0066,Ghosh-Sahni Eatery,Mumbai,Dessert,3.76,0.261
+R0067,"Gill, Datta and Goda Eatery",Chennai,Mexican,4.89,0.252
+R0068,"Rajagopal, Munshi and Tara Eatery",Mumbai,Healthy,4.44,0.269
+R0069,Prasad PLC Eatery,Kolkata,Indian,4.03,0.288
+R0070,"Dayal, Banerjee and Ahuja Eatery",Kolkata,Dessert,3.30,0.277
+R0071,Shenoy-Chad Eatery,Hyderabad,Mexican,4.53,0.337
+R0072,"Shetty, Sarna and Halder Eatery",Mumbai,Italian,3.19,0.277
+R0073,Ganesh Inc Eatery,Mumbai,Dessert,4.42,0.218
+R0074,Balan and Sons Eatery,Ahmedabad,Healthy,3.27,0.229
+R0075,"Warrior, Rajan and Sen Eatery",Pune,Indian,4.22,0.326
+R0076,Lala-Contractor Eatery,Mumbai,Indian,4.88,0.200
+R0077,Kaul and Sons Eatery,Pune,Chinese,4.06,0.290
+R0078,Hayer Inc Eatery,Pune,Healthy,3.12,0.237
+R0079,"Chana, Gole and Chandra Eatery",Ahmedabad,Chinese,3.72,0.281
+R0080,"Kakar, Subramanian and Kapur Eatery",Pune,Healthy,4.88,0.259
+R0081,Pandey-Malhotra Eatery,Delhi,Healthy,3.04,0.262
+R0082,"Dey, Nagar and Chopra Eatery",Bengaluru,Healthy,4.71,0.241
+R0083,"Dara, Johal and Lala Eatery",Pune,Italian,4.01,0.252
+R0084,Buch-Bhakta Eatery,Delhi,Chinese,3.26,0.332
+R0085,Rama-Dua Eatery,Hyderabad,Healthy,4.62,0.266
+R0086,Pal-Ramaswamy Eatery,Pune,Chinese,4.27,0.214
+R0087,Khare-Hegde Eatery,Ahmedabad,Dessert,4.76,0.284
+R0088,"Edwin, Bava and Padmanabhan Eatery",Hyderabad,Italian,4.87,0.284
+R0089,Dhar PLC Eatery,Ahmedabad,Italian,3.51,0.235
+R0090,Seth Ltd Eatery,Chennai,Chinese,4.56,0.289
+R0091,Hegde-Dass Eatery,Pune,Fast Food,4.52,0.349
+R0092,"Luthra, Bhandari and Parikh Eatery",Mumbai,Indian,3.46,0.295
+R0093,"Bakshi, Nori and Rajagopalan Eatery",Hyderabad,Dessert,4.54,0.258
+R0094,Dara Ltd Eatery,Delhi,Mexican,4.42,0.220
+R0095,Shanker Inc Eatery,Bengaluru,Healthy,3.99,0.249
+R0096,"Dhar, Mitter and Sridhar Eatery",Pune,Italian,3.48,0.261
+R0097,"Bora, Barman and Dubey Eatery",Kolkata,Fast Food,3.31,0.230
+R0098,Talwar-Varughese Eatery,Ahmedabad,Indian,3.20,0.314
+R0099,"Lalla, Dutta and Hayer Eatery",Pune,Mexican,3.81,0.332
+R0100,"Anne, Golla and Menon Eatery",Ahmedabad,Dessert,4.28,0.238
+R0101,"Nair, Sundaram and Divan Eatery",Kolkata,Italian,3.05,0.243
+R0102,Sane-Baral Eatery,Bengaluru,Indian,3.47,0.310
+R0103,"Deshmukh, Savant and Hayre Eatery",Kolkata,Healthy,4.08,0.237
+R0104,Goda-Edwin Eatery,Bengaluru,Healthy,3.77,0.223
+R0105,"Murty, Luthra and Sangha Eatery",Chennai,Fast Food,4.17,0.269
+R0106,Lata PLC Eatery,Delhi,Fast Food,4.30,0.284
+R0107,"Kumar, Devi and Chokshi Eatery",Delhi,Mexican,4.59,0.241
+R0108,Bumb-Dubey Eatery,Bengaluru,Healthy,3.34,0.236
+R0109,Zacharia PLC Eatery,Mumbai,Italian,4.00,0.221
+R0110,"Aggarwal, Raja and Bhattacharyya Eatery",Delhi,Healthy,3.85,0.307
+R0111,Devi and Sons Eatery,Chennai,Chinese,3.46,0.255
+R0112,Chadha LLC Eatery,Ahmedabad,Dessert,3.66,0.310
+R0113,Barad-Sethi Eatery,Ahmedabad,Fast Food,3.96,0.257
+R0114,"Apte, Chana and Master Eatery",Hyderabad,Healthy,4.20,0.248
+R0115,Das Inc Eatery,Chennai,Fast Food,3.31,0.328
+R0116,Memon Ltd Eatery,Hyderabad,Chinese,3.00,0.284
+R0117,Goswami PLC Eatery,Bengaluru,Mexican,4.24,0.216
+R0118,Chowdhury-Doshi Eatery,Chennai,Indian,3.60,0.201
+R0119,"Manda, Gaba and Singhal Eatery",Chennai,Indian,3.32,0.322
+R0120,"Bali, Purohit and Sangha Eatery",Hyderabad,Chinese,4.31,0.325
+R0121,"Brahmbhatt, Madan and Kadakia Eatery",Pune,Indian,3.55,0.344
+R0122,Badami-Sunder Eatery,Delhi,Mexican,4.50,0.327
+R0123,Brahmbhatt-Ravi Eatery,Kolkata,Chinese,4.49,0.345
+R0124,"Comar, Krishnan and Borra Eatery",Mumbai,Chinese,3.32,0.287
+R0125,Srinivas-Parekh Eatery,Mumbai,Healthy,4.88,0.291
+R0126,Raju-Taneja Eatery,Kolkata,Healthy,4.36,0.306
+R0127,Memon LLC Eatery,Delhi,Indian,4.60,0.222
+R0128,Sankar Group Eatery,Delhi,Chinese,3.08,0.211
+R0129,Chakrabarti Inc Eatery,Mumbai,Dessert,4.79,0.242
+R0130,Lata-Goswami Eatery,Delhi,Dessert,3.63,0.212
+R0131,Nagar LLC Eatery,Bengaluru,Healthy,4.42,0.284
+R0132,"Purohit, Grewal and Mitra Eatery",Chennai,Dessert,4.68,0.291
+R0133,"Doshi, Randhawa and Suresh Eatery",Chennai,Fast Food,3.54,0.250
+R0134,"Mitra, Raghavan and Sami Eatery",Pune,Dessert,3.56,0.335
+R0135,Borra-Sant Eatery,Chennai,Fast Food,3.64,0.287
+R0136,Kamdar Inc Eatery,Hyderabad,Fast Food,3.62,0.216
+R0137,Manda Group Eatery,Delhi,Dessert,3.57,0.266
+R0138,"Tripathi, Khanna and Mital Eatery",Hyderabad,Chinese,3.75,0.223
+R0139,"Mand, Pall and Bumb Eatery",Chennai,Healthy,4.02,0.259
+R0140,"Nanda, Gaba and Parmar Eatery",Pune,Mexican,4.49,0.280
+R0141,Sarraf Inc Eatery,Hyderabad,Healthy,3.76,0.239
+R0142,"Pal, Din and Ramaswamy Eatery",Delhi,Mexican,3.89,0.231
+R0143,Jhaveri PLC Eatery,Mumbai,Fast Food,3.95,0.251
+R0144,"Master, Mahajan and Dutt Eatery",Pune,Mexican,4.57,0.201
+R0145,"Sarma, Sachar and Bora Eatery",Mumbai,Fast Food,4.14,0.337
+R0146,"Ramachandran, Chandran and Nagarajan Eatery",Kolkata,Italian,3.41,0.202
+R0147,Chad PLC Eatery,Hyderabad,Fast Food,3.31,0.295
+R0148,Chaudhari-Parsa Eatery,Mumbai,Indian,4.37,0.264
+R0149,"Chaudhuri, Nayak and Goel Eatery",Kolkata,Fast Food,4.65,0.218
+R0150,Patla Inc Eatery,Kolkata,Dessert,4.34,0.349
+R0151,Bail-Tiwari Eatery,Hyderabad,Chinese,4.09,0.267
+R0152,"Shere, Baral and Loyal Eatery",Hyderabad,Healthy,3.48,0.279
+R0153,Kannan-Borah Eatery,Bengaluru,Healthy,4.38,0.318
+R0154,Narasimhan Inc Eatery,Mumbai,Dessert,4.32,0.210
+R0155,Mani and Sons Eatery,Kolkata,Chinese,4.60,0.229
+R0156,"Dube, Butala and Taneja Eatery",Hyderabad,Healthy,4.85,0.261
+R0157,Tak LLC Eatery,Pune,Fast Food,3.45,0.275
+R0158,Palan Inc Eatery,Bengaluru,Indian,4.14,0.342
+R0159,Hans-Joshi Eatery,Kolkata,Chinese,3.65,0.304
+R0160,Karan-Murthy Eatery,Chennai,Fast Food,3.30,0.213
+R0161,Baral-Bath Eatery,Mumbai,Fast Food,4.82,0.318
+R0162,Sibal-Brar Eatery,Ahmedabad,Chinese,4.07,0.221
+R0163,Atwal-Balakrishnan Eatery,Mumbai,Dessert,4.11,0.243
+R0164,Rajagopal-Misra Eatery,Mumbai,Healthy,3.54,0.261
+R0165,"Mishra, Nagar and Dasgupta Eatery",Pune,Dessert,3.80,0.329
+R0166,"Raval, Bajaj and Kakar Eatery",Delhi,Chinese,4.04,0.271
+R0167,Tandon-De Eatery,Hyderabad,Italian,4.12,0.315
+R0168,"Dhar, Verma and Ramakrishnan Eatery",Pune,Fast Food,4.55,0.201
+R0169,"Gulati, Chana and Salvi Eatery",Kolkata,Healthy,3.14,0.274
+R0170,Mahajan LLC Eatery,Bengaluru,Dessert,3.35,0.219
+R0171,Chauhan PLC Eatery,Pune,Mexican,3.02,0.284
+R0172,Basak-Mannan Eatery,Pune,Indian,4.67,0.213
+R0173,"Dewan, Bahri and Bawa Eatery",Delhi,Indian,3.87,0.350
+R0174,Bhasin-Sangha Eatery,Pune,Dessert,3.39,0.318
+R0175,Madan Ltd Eatery,Hyderabad,Italian,4.77,0.344
+R0176,"Mallick, Garg and Mohanty Eatery",Hyderabad,Italian,3.76,0.305
+R0177,Bora PLC Eatery,Hyderabad,Fast Food,4.82,0.339
+R0178,"Sodhi, Kanda and Hayre Eatery",Kolkata,Italian,3.28,0.345
+R0179,Verma LLC Eatery,Ahmedabad,Mexican,3.50,0.212
+R0180,"Atwal, Kurian and Raju Eatery",Hyderabad,Fast Food,3.65,0.336
+R0181,Sankaran LLC Eatery,Pune,Fast Food,4.88,0.332
+R0182,Pandey-Shenoy Eatery,Mumbai,Dessert,3.66,0.318
+R0183,"Raj, Dhar and Joshi Eatery",Hyderabad,Indian,4.55,0.270
+R0184,Butala-Solanki Eatery,Hyderabad,Healthy,4.58,0.275
+R0185,Dave-Badal Eatery,Ahmedabad,Indian,3.52,0.285
+R0186,Sangha-Singh Eatery,Delhi,Healthy,4.52,0.228
+R0187,Puri Ltd Eatery,Ahmedabad,Fast Food,4.15,0.254
+R0188,Bahri Group Eatery,Delhi,Chinese,3.05,0.301
+R0189,Dhingra Inc Eatery,Pune,Italian,3.67,0.200
+R0190,Walia and Sons Eatery,Delhi,Italian,3.53,0.250
+R0191,"Doctor, Nayak and Nadkarni Eatery",Bengaluru,Mexican,4.33,0.235
+R0192,"Bahl, Sankaran and Bava Eatery",Mumbai,Chinese,3.95,0.298
+R0193,Misra-Badami Eatery,Ahmedabad,Dessert,4.00,0.205
+R0194,Prakash-Lalla Eatery,Pune,Mexican,3.55,0.312
+R0195,"Modi, Varghese and Sankaran Eatery",Delhi,Fast Food,4.18,0.311
+R0196,Chakrabarti PLC Eatery,Chennai,Chinese,3.57,0.234
+R0197,Kulkarni-Shan Eatery,Hyderabad,Healthy,3.63,0.314
+R0198,Bawa Ltd Eatery,Kolkata,Italian,3.29,0.326
+R0199,Sangha PLC Eatery,Pune,Mexican,4.67,0.311
+R0200,"Pillay, Devi and Grewal Eatery",Mumbai,Italian,3.31,0.269
+R0201,"Garg, Boase and Sachdeva Eatery",Kolkata,Mexican,3.54,0.329
+R0202,Issac LLC Eatery,Hyderabad,Healthy,4.34,0.288
+R0203,Ghose-Mander Eatery,Kolkata,Fast Food,3.69,0.243
+R0204,"Oza, Ravi and Sarraf Eatery",Kolkata,Chinese,4.68,0.263
+R0205,"Pandit, Rajan and Saha Eatery",Hyderabad,Mexican,4.54,0.299
+R0206,Gulati and Sons Eatery,Mumbai,Italian,4.03,0.234
+R0207,Parikh Group Eatery,Pune,Mexican,3.01,0.295
+R0208,Dhawan Group Eatery,Ahmedabad,Chinese,4.43,0.258
+R0209,Devi Ltd Eatery,Chennai,Mexican,4.26,0.344
+R0210,Hayre-Thaker Eatery,Kolkata,Dessert,3.94,0.220
+R0211,"Sekhon, Raman and Goel Eatery",Kolkata,Indian,3.94,0.265
+R0212,Sheth-Batta Eatery,Hyderabad,Chinese,4.46,0.346
+R0213,Batta and Sons Eatery,Ahmedabad,Dessert,3.68,0.348
+R0214,Kanda PLC Eatery,Bengaluru,Dessert,3.94,0.257
+R0215,"Chakraborty, Bawa and Gandhi Eatery",Hyderabad,Dessert,3.60,0.213
+R0216,Bala-Kulkarni Eatery,Bengaluru,Healthy,3.03,0.336
+R0217,Gopal and Sons Eatery,Hyderabad,Mexican,4.51,0.308
+R0218,"Thaker, Pradhan and Pal Eatery",Pune,Chinese,3.86,0.290
+R0219,Jain Group Eatery,Ahmedabad,Italian,3.72,0.254
+R0220,Narain-Handa Eatery,Chennai,Fast Food,4.20,0.270
+R0221,Ramakrishnan Group Eatery,Hyderabad,Italian,3.12,0.343
+R0222,Palla PLC Eatery,Kolkata,Indian,3.08,0.321
+R0223,"Nagi, Vyas and Chadha Eatery",Chennai,Italian,3.96,0.208
+R0224,"Vig, Tara and Seth Eatery",Kolkata,Dessert,3.92,0.238
+R0225,Tandon Group Eatery,Chennai,Healthy,3.46,0.284
+R0226,"Dora, Sen and Cheema Eatery",Delhi,Fast Food,4.08,0.312
+R0227,Ranganathan Inc Eatery,Hyderabad,Fast Food,3.18,0.226
+R0228,Sur-Deol Eatery,Ahmedabad,Dessert,4.69,0.291
+R0229,Nagar-Maharaj Eatery,Kolkata,Fast Food,4.43,0.232
+R0230,Panchal Group Eatery,Bengaluru,Italian,4.86,0.321
+R0231,Kunda LLC Eatery,Hyderabad,Mexican,3.56,0.252
+R0232,Chaudhry and Sons Eatery,Chennai,Mexican,3.82,0.331
+R0233,Kakar Inc Eatery,Delhi,Fast Food,4.09,0.252
+R0234,Dave-Deo Eatery,Kolkata,Healthy,3.93,0.230
+R0235,Sibal and Sons Eatery,Mumbai,Italian,4.42,0.309
+R0236,Goel LLC Eatery,Mumbai,Chinese,3.45,0.307
+R0237,Bhargava-Karnik Eatery,Delhi,Indian,3.47,0.203
+R0238,"Wable, Gaba and Rajan Eatery",Kolkata,Chinese,3.52,0.284
+R0239,Wable-Chaudhary Eatery,Ahmedabad,Italian,4.02,0.249
+R0240,Barad-Loke Eatery,Mumbai,Dessert,4.65,0.297
+R0241,"Koshy, Bose and Lala Eatery",Mumbai,Fast Food,3.38,0.346
+R0242,Chaudhary LLC Eatery,Hyderabad,Chinese,4.16,0.211
+R0243,"Bali, Deep and Nagar Eatery",Hyderabad,Chinese,3.80,0.287
+R0244,Dhar LLC Eatery,Delhi,Healthy,3.80,0.205
+R0245,Nazareth-Nayak Eatery,Ahmedabad,Mexican,4.19,0.312
+R0246,Gokhale Ltd Eatery,Kolkata,Healthy,4.88,0.270
+R0247,Keer-Bora Eatery,Bengaluru,Dessert,4.71,0.207
+R0248,"Johal, Wagle and Kadakia Eatery",Kolkata,Healthy,4.31,0.312
+R0249,Lad-Nayak Eatery,Pune,Indian,3.04,0.293
+R0250,Kunda LLC Eatery,Chennai,Chinese,3.79,0.253
+R0251,"Kohli, Patla and Sehgal Eatery",Ahmedabad,Indian,3.40,0.267
+R0252,Ravel Group Eatery,Pune,Italian,4.43,0.241
+R0253,Bhatt PLC Eatery,Ahmedabad,Indian,3.90,0.273
+R0254,"Dewan, Bala and Borah Eatery",Pune,Fast Food,4.03,0.212
+R0255,Panchal-Sha Eatery,Pune,Mexican,3.89,0.238
+R0256,Cheema Ltd Eatery,Hyderabad,Chinese,4.20,0.289
+R0257,Memon-Sehgal Eatery,Ahmedabad,Indian,4.84,0.319
+R0258,Bakshi and Sons Eatery,Mumbai,Mexican,4.11,0.232
+R0259,"Ray, Karan and Chada Eatery",Ahmedabad,Italian,3.94,0.250
+R0260,Grewal-Arya Eatery,Ahmedabad,Mexican,3.14,0.294
+R0261,Jain and Sons Eatery,Pune,Indian,3.90,0.283
+R0262,"Manne, Handa and Bala Eatery",Delhi,Dessert,3.06,0.207
+R0263,Jaggi LLC Eatery,Kolkata,Indian,3.74,0.281
+R0264,Biswas-Rama Eatery,Pune,Fast Food,3.69,0.233
+R0265,"Shah, Gour and Balasubramanian Eatery",Pune,Italian,3.96,0.237
+R0266,Jayaraman-Sachdeva Eatery,Hyderabad,Fast Food,4.63,0.253
+R0267,Doshi-Kata Eatery,Bengaluru,Dessert,4.40,0.327
+R0268,Bhargava LLC Eatery,Chennai,Dessert,3.77,0.235
+R0269,Sridhar Group Eatery,Pune,Chinese,3.84,0.227
+R0270,Rattan PLC Eatery,Pune,Mexican,4.84,0.265
+R0271,Munshi Group Eatery,Bengaluru,Dessert,4.88,0.323
+R0272,Prabhu-Patil Eatery,Mumbai,Chinese,4.38,0.300
+R0273,Mallick-Halder Eatery,Ahmedabad,Mexican,4.55,0.285
+R0274,Mukhopadhyay-Agrawal Eatery,Delhi,Italian,4.45,0.236
+R0275,"Nair, Vyas and Menon Eatery",Bengaluru,Mexican,3.02,0.275
+R0276,"Dada, Mani and Ghose Eatery",Delhi,Fast Food,3.40,0.255
+R0277,Bedi and Sons Eatery,Ahmedabad,Chinese,4.60,0.273
+R0278,"Doshi, Pathak and Wason Eatery",Ahmedabad,Chinese,3.72,0.217
+R0279,Sura LLC Eatery,Kolkata,Italian,4.06,0.301
+R0280,Dua Group Eatery,Kolkata,Healthy,4.44,0.271
+R0281,Reddy-Bhargava Eatery,Pune,Dessert,3.25,0.303
+R0282,"Walla, Mandal and Buch Eatery",Pune,Fast Food,3.85,0.256
+R0283,"Gopal, Deshmukh and Bumb Eatery",Bengaluru,Chinese,3.21,0.205
+R0284,Ganesan LLC Eatery,Hyderabad,Fast Food,4.56,0.233
+R0285,"Dora, Chokshi and Baria Eatery",Hyderabad,Chinese,4.32,0.278
+R0286,Loke-Khanna Eatery,Mumbai,Italian,3.90,0.292
+R0287,Savant Inc Eatery,Kolkata,Healthy,4.35,0.249
+R0288,Sahota-Ramesh Eatery,Hyderabad,Italian,3.83,0.313
+R0289,Anne-Bhalla Eatery,Delhi,Fast Food,3.72,0.212
+R0290,Andra-Shah Eatery,Mumbai,Indian,4.37,0.306
+R0291,"Loke, Krishna and Choudhary Eatery",Ahmedabad,Chinese,4.73,0.341
+R0292,"Taneja, Borde and Lala Eatery",Ahmedabad,Italian,3.73,0.303
+R0293,"Sur, Sem and Chaudhari Eatery",Bengaluru,Chinese,4.26,0.277
+R0294,Prakash-Ramesh Eatery,Pune,Italian,3.24,0.350
+R0295,"Basak, Dara and Sankaran Eatery",Pune,Italian,3.03,0.323
+R0296,Mitra-Sankaran Eatery,Kolkata,Chinese,4.85,0.254
+R0297,"Sarna, Shroff and Aggarwal Eatery",Kolkata,Mexican,4.65,0.343
+R0298,"Pradhan, Nadig and Soni Eatery",Pune,Mexican,3.35,0.325
+R0299,"Bora, Shankar and Balan Eatery",Chennai,Healthy,3.48,0.334
+R0300,Ray-Vig Eatery,Pune,Italian,4.01,0.234
+R0301,Sahota-Rajagopal Eatery,Mumbai,Dessert,3.44,0.203
+R0302,"Venkatesh, Dixit and Konda Eatery",Chennai,Healthy,3.90,0.217
+R0303,Nanda-Din Eatery,Chennai,Chinese,4.11,0.241
+R0304,Hayre-Cheema Eatery,Chennai,Dessert,4.37,0.344
+R0305,Venkatesh Inc Eatery,Pune,Chinese,4.70,0.208
+R0306,"Borra, Solanki and Choudhary Eatery",Hyderabad,Mexican,4.63,0.315
+R0307,Sahota-Chakrabarti Eatery,Kolkata,Mexican,3.59,0.308
+R0308,Dalal-Pall Eatery,Delhi,Dessert,3.01,0.335
+R0309,Char Group Eatery,Kolkata,Indian,3.90,0.266
+R0310,Raval-Mangal Eatery,Delhi,Healthy,3.83,0.287
+R0311,"Dubey, Lala and Kar Eatery",Ahmedabad,Fast Food,4.85,0.344
+R0312,"Walia, Chaudhuri and Rana Eatery",Ahmedabad,Mexican,3.38,0.251
+R0313,Devi-Karnik Eatery,Hyderabad,Mexican,4.84,0.237
+R0314,"Swaminathan, Dasgupta and Sethi Eatery",Delhi,Indian,4.52,0.336
+R0315,Sankaran-Chaudhary Eatery,Chennai,Fast Food,3.60,0.236
+R0316,Deol-Tripathi Eatery,Delhi,Dessert,3.51,0.273
+R0317,Sidhu PLC Eatery,Delhi,Mexican,4.88,0.281
+R0318,Mohan Ltd Eatery,Pune,Dessert,4.14,0.340
+R0319,"Badami, Sathe and Mutti Eatery",Kolkata,Chinese,3.69,0.252
+R0320,Divan and Sons Eatery,Delhi,Fast Food,3.25,0.217
+R0321,Mane Ltd Eatery,Kolkata,Mexican,4.60,0.341
+R0322,Karnik-Modi Eatery,Kolkata,Italian,3.26,0.206
+R0323,"Jani, Kohli and Prakash Eatery",Hyderabad,Fast Food,4.42,0.276
+R0324,"Padmanabhan, Pai and Chand Eatery",Hyderabad,Indian,4.54,0.349
+R0325,"Brahmbhatt, Hayer and Prabhu Eatery",Mumbai,Fast Food,4.08,0.221
+R0326,Bath-Pall Eatery,Pune,Chinese,4.09,0.290
+R0327,"Borde, Dugar and Varughese Eatery",Ahmedabad,Healthy,4.52,0.295
+R0328,Sabharwal Ltd Eatery,Bengaluru,Italian,3.66,0.261
+R0329,Chaudry-Atwal Eatery,Kolkata,Indian,4.02,0.229
+R0330,"Nanda, Bora and Cherian Eatery",Mumbai,Fast Food,3.45,0.325
+R0331,Gulati and Sons Eatery,Delhi,Italian,3.10,0.212
+R0332,"Gokhale, Modi and Chaudry Eatery",Kolkata,Dessert,4.54,0.205
+R0333,"Randhawa, Oommen and Som Eatery",Mumbai,Dessert,3.78,0.295
+R0334,Bakshi Ltd Eatery,Bengaluru,Italian,3.34,0.324
+R0335,"Pandit, Arya and Dube Eatery",Chennai,Indian,4.59,0.294
+R0336,Bains PLC Eatery,Pune,Chinese,4.70,0.283
+R0337,Gill-Lalla Eatery,Ahmedabad,Healthy,3.96,0.252
+R0338,Mann PLC Eatery,Ahmedabad,Fast Food,3.11,0.246
+R0339,"Dhillon, Bala and Mohanty Eatery",Delhi,Chinese,4.04,0.249
+R0340,Purohit Group Eatery,Mumbai,Mexican,4.52,0.244
+R0341,Bains-Rastogi Eatery,Chennai,Chinese,4.33,0.301
+R0342,Setty Ltd Eatery,Ahmedabad,Italian,4.50,0.227
+R0343,Memon Inc Eatery,Bengaluru,Healthy,3.27,0.223
+R0344,Viswanathan PLC Eatery,Chennai,Italian,4.08,0.300
+R0345,Prabhu Ltd Eatery,Delhi,Fast Food,4.90,0.205
+R0346,"Mangal, Ganguly and Chaudhari Eatery",Mumbai,Indian,4.74,0.203
+R0347,Bail-Dhaliwal Eatery,Ahmedabad,Fast Food,4.00,0.223
+R0348,Shenoy-Patel Eatery,Mumbai,Indian,4.16,0.315
+R0349,Nazareth-Mukherjee Eatery,Kolkata,Fast Food,4.17,0.258
+R0350,"Nadig, Dubey and Dara Eatery",Kolkata,Indian,4.20,0.251
+R0351,Prashad PLC Eatery,Ahmedabad,Italian,4.68,0.290
+R0352,Dave-Saxena Eatery,Ahmedabad,Mexican,4.51,0.312
+R0353,"Naik, Vig and Badal Eatery",Bengaluru,Healthy,3.70,0.265
+R0354,"Kala, Doctor and Batta Eatery",Hyderabad,Dessert,3.02,0.229
+R0355,Salvi PLC Eatery,Hyderabad,Dessert,3.94,0.211
+R0356,Patel PLC Eatery,Delhi,Chinese,3.29,0.340
+R0357,Dani Group Eatery,Bengaluru,Healthy,4.57,0.305
+R0358,"Barad, Dugal and Nadig Eatery",Bengaluru,Mexican,3.72,0.267
+R0359,Barad Ltd Eatery,Mumbai,Italian,4.86,0.334
+R0360,Bandi Inc Eatery,Pune,Healthy,3.30,0.263
+R0361,Oak Group Eatery,Bengaluru,Mexican,3.75,0.344
+R0362,Bhat-Balasubramanian Eatery,Mumbai,Chinese,4.14,0.244
+R0363,Roy-Kapadia Eatery,Bengaluru,Indian,3.98,0.330
+R0364,"Patil, Muni and Goel Eatery",Pune,Italian,3.13,0.293
+R0365,Sachdeva Inc Eatery,Pune,Chinese,4.44,0.267
+R0366,Shenoy Ltd Eatery,Mumbai,Indian,4.81,0.229
+R0367,Subramanian-Kannan Eatery,Chennai,Chinese,3.67,0.236
+R0368,Palla-Gole Eatery,Bengaluru,Dessert,4.59,0.285
+R0369,"Balasubramanian, Dayal and Reddy Eatery",Bengaluru,Mexican,3.82,0.339
+R0370,"Kashyap, Sarma and Khurana Eatery",Hyderabad,Indian,4.88,0.349
+R0371,Samra LLC Eatery,Chennai,Mexican,4.74,0.232
+R0372,Saha-Dewan Eatery,Bengaluru,Dessert,3.77,0.225
+R0373,Shroff Ltd Eatery,Hyderabad,Italian,3.65,0.325
+R0374,Maharaj Group Eatery,Mumbai,Italian,4.24,0.339
+R0375,Parekh-Chanda Eatery,Pune,Chinese,3.24,0.216
+R0376,Kade-Sundaram Eatery,Delhi,Fast Food,4.21,0.215
+R0377,Soman LLC Eatery,Chennai,Fast Food,3.81,0.232
+R0378,Pandey LLC Eatery,Mumbai,Indian,3.37,0.226
+R0379,"Sarna, Cherian and Dugar Eatery",Hyderabad,Chinese,4.44,0.217
+R0380,"Basak, D’Alia and Chander Eatery",Bengaluru,Indian,4.56,0.292
+R0381,Wable-Mand Eatery,Mumbai,Mexican,4.01,0.275
+R0382,Brar-Mitra Eatery,Kolkata,Italian,3.66,0.289
+R0383,Sharaf-Sangha Eatery,Bengaluru,Chinese,4.54,0.258
+R0384,Patla Group Eatery,Delhi,Mexican,3.42,0.305
+R0385,Dora PLC Eatery,Delhi,Indian,4.73,0.246
+R0386,"Atwal, Sabharwal and Ratti Eatery",Chennai,Dessert,4.58,0.301
+R0387,"Sidhu, Khare and Lala Eatery",Ahmedabad,Healthy,3.77,0.249
+R0388,Bail-Sane Eatery,Pune,Dessert,3.02,0.349
+R0389,Warrior PLC Eatery,Ahmedabad,Dessert,4.33,0.326
+R0390,Narula-Dua Eatery,Bengaluru,Healthy,4.49,0.244
+R0391,Kuruvilla-Tailor Eatery,Pune,Indian,4.21,0.297
+R0392,Nath-Om Eatery,Chennai,Dessert,4.37,0.337
+R0393,Palla PLC Eatery,Mumbai,Italian,4.79,0.323
+R0394,Biswas-Dixit Eatery,Kolkata,Chinese,4.88,0.321
+R0395,"Kadakia, Chauhan and Uppal Eatery",Delhi,Dessert,4.88,0.205
+R0396,Narasimhan and Sons Eatery,Chennai,Italian,3.17,0.220
+R0397,Srivastava-Chahal Eatery,Ahmedabad,Dessert,4.09,0.206
+R0398,Reddy-Date Eatery,Pune,Chinese,3.14,0.342
+R0399,Kumar-Johal Eatery,Pune,Italian,4.61,0.332
+R0400,"Kanda, Soni and Mohanty Eatery",Kolkata,Chinese,3.58,0.252
+R0401,Chhabra LLC Eatery,Hyderabad,Indian,4.16,0.310
+R0402,Butala-Buch Eatery,Pune,Mexican,4.87,0.286
+R0403,Samra Group Eatery,Mumbai,Dessert,3.05,0.210
+R0404,Hans-Shah Eatery,Mumbai,Chinese,3.52,0.206
+R0405,"Sankar, Dhar and Patil Eatery",Kolkata,Chinese,4.65,0.252
+R0406,Date Inc Eatery,Bengaluru,Mexican,4.89,0.276
+R0407,Khare PLC Eatery,Delhi,Indian,4.33,0.286
+R0408,Singhal and Sons Eatery,Kolkata,Healthy,4.37,0.263
+R0409,"Chada, Ramakrishnan and Dugar Eatery",Chennai,Italian,3.53,0.350
+R0410,"Parsa, Chopra and Sarma Eatery",Chennai,Italian,3.41,0.201
+R0411,Munshi PLC Eatery,Chennai,Healthy,3.87,0.268
+R0412,"Date, Ben and Goel Eatery",Ahmedabad,Chinese,3.99,0.276
+R0413,"Chopra, Narayanan and Borra Eatery",Bengaluru,Dessert,4.28,0.310
+R0414,Khatri Inc Eatery,Pune,Indian,3.27,0.333
+R0415,"Rajan, Kannan and Tara Eatery",Pune,Indian,3.82,0.325
+R0416,"Naik, Nadkarni and Grewal Eatery",Mumbai,Healthy,3.96,0.277
+R0417,Borde-Sanghvi Eatery,Bengaluru,Mexican,3.12,0.224
+R0418,"Bose, Chatterjee and Nazareth Eatery",Hyderabad,Italian,4.35,0.288
+R0419,Ghosh-Mody Eatery,Kolkata,Fast Food,3.80,0.316
+R0420,"Bhalla, Chandra and Anne Eatery",Bengaluru,Italian,4.82,0.226
+R0421,"Malhotra, Kuruvilla and Jani Eatery",Mumbai,Fast Food,4.38,0.310
+R0422,"Kale, Shenoy and Vala Eatery",Hyderabad,Indian,3.90,0.296
+R0423,"Bora, Dugar and Grover Eatery",Hyderabad,Healthy,3.14,0.270
+R0424,Krishna PLC Eatery,Delhi,Indian,3.17,0.214
+R0425,Bala Ltd Eatery,Hyderabad,Chinese,3.98,0.306
+R0426,Kala-Mallick Eatery,Chennai,Fast Food,4.78,0.220
+R0427,Prabhu-Mand Eatery,Kolkata,Fast Food,4.22,0.350
+R0428,"Chacko, Saha and Aggarwal Eatery",Pune,Healthy,3.33,0.209
+R0429,Borra LLC Eatery,Chennai,Mexican,3.71,0.252
+R0430,Nazareth LLC Eatery,Chennai,Healthy,4.49,0.285
+R0431,Prabhu-Wagle Eatery,Hyderabad,Dessert,4.18,0.260
+R0432,"Ratta, Chokshi and Dave Eatery",Chennai,Healthy,4.15,0.295
+R0433,Lal-Kaul Eatery,Hyderabad,Mexican,4.06,0.329
+R0434,Jain-Ghose Eatery,Hyderabad,Italian,3.72,0.289
+R0435,Bhatti Ltd Eatery,Mumbai,Dessert,4.74,0.252
+R0436,"Kuruvilla, Mahajan and Lanka Eatery",Hyderabad,Mexican,4.23,0.250
+R0437,Mander LLC Eatery,Chennai,Healthy,3.60,0.336
+R0438,Sabharwal-Buch Eatery,Kolkata,Italian,3.56,0.286
+R0439,Deshmukh-Johal Eatery,Bengaluru,Dessert,4.85,0.261
+R0440,Ray-Rastogi Eatery,Pune,Chinese,4.84,0.345
+R0441,Subramaniam-Bail Eatery,Kolkata,Mexican,4.64,0.296
+R0442,Upadhyay-Dass Eatery,Mumbai,Italian,3.88,0.211
+R0443,Virk-Mishra Eatery,Delhi,Italian,3.88,0.247
+R0444,"Thaker, Rana and Varkey Eatery",Delhi,Mexican,3.87,0.330
+R0445,Soni Ltd Eatery,Hyderabad,Italian,4.55,0.267
+R0446,Kala PLC Eatery,Mumbai,Indian,3.83,0.347
+R0447,"Chakrabarti, Pandey and Kala Eatery",Bengaluru,Fast Food,3.02,0.327
+R0448,Peri-Wason Eatery,Pune,Chinese,3.41,0.320
+R0449,"Upadhyay, Sridhar and Chand Eatery",Ahmedabad,Italian,4.77,0.223
+R0450,Bhatt PLC Eatery,Hyderabad,Dessert,3.92,0.215
+R0451,Gole and Sons Eatery,Kolkata,Mexican,4.70,0.245
+R0452,Johal Ltd Eatery,Ahmedabad,Fast Food,4.15,0.301
+R0453,Sani and Sons Eatery,Bengaluru,Indian,3.77,0.321
+R0454,Khosla-Pau Eatery,Ahmedabad,Healthy,3.21,0.279
+R0455,"Gala, Radhakrishnan and Pingle Eatery",Mumbai,Fast Food,3.97,0.266
+R0456,Choudhary-Krishnan Eatery,Bengaluru,Chinese,4.75,0.211
+R0457,"Ray, Nath and Wadhwa Eatery",Hyderabad,Italian,4.78,0.297
+R0458,Aurora-Hari Eatery,Ahmedabad,Chinese,4.00,0.345
+R0459,Raj-Subramanian Eatery,Pune,Fast Food,3.71,0.241
+R0460,Dash-Dey Eatery,Kolkata,Dessert,4.04,0.284
+R0461,Choudhury-Bal Eatery,Kolkata,Dessert,3.10,0.329
+R0462,Chaudhari Ltd Eatery,Delhi,Fast Food,4.01,0.275
+R0463,Majumdar-Balasubramanian Eatery,Ahmedabad,Fast Food,3.85,0.302
+R0464,"Amble, Bhattacharyya and Basu Eatery",Delhi,Chinese,3.99,0.271
+R0465,"Rana, Karnik and Bhatti Eatery",Delhi,Mexican,3.84,0.209
+R0466,Muni and Sons Eatery,Kolkata,Italian,3.91,0.251
+R0467,"Banik, Rout and Kothari Eatery",Delhi,Dessert,3.76,0.349
+R0468,Jain-Bhargava Eatery,Delhi,Italian,4.14,0.343
+R0469,"Ranganathan, Sachar and Mann Eatery",Delhi,Chinese,3.75,0.309
+R0470,Prashad Group Eatery,Pune,Italian,3.91,0.308
+R0471,Nagi-Kala Eatery,Ahmedabad,Healthy,3.06,0.219
+R0472,Khatri-Talwar Eatery,Mumbai,Chinese,3.04,0.228
+R0473,Babu Inc Eatery,Pune,Dessert,4.12,0.327
+R0474,"Kannan, Prakash and Kara Eatery",Delhi,Dessert,3.52,0.291
+R0475,Ramesh-Chahal Eatery,Ahmedabad,Mexican,4.79,0.309
+R0476,Gour-Dixit Eatery,Bengaluru,Chinese,4.37,0.273
+R0477,Bassi-Rama Eatery,Bengaluru,Mexican,3.80,0.274
+R0478,"Kanda, Sarin and Majumdar Eatery",Chennai,Chinese,3.50,0.228
+R0479,"Saini, Prasad and Talwar Eatery",Bengaluru,Italian,4.24,0.337
+R0480,"Khosla, Sankar and Nadig Eatery",Kolkata,Mexican,4.42,0.274
+R0481,Atwal-Madan Eatery,Hyderabad,Mexican,3.61,0.216
+R0482,Khalsa Ltd Eatery,Delhi,Mexican,3.75,0.276
+R0483,Rattan Inc Eatery,Hyderabad,Mexican,3.96,0.329
+R0484,Handa Inc Eatery,Delhi,Chinese,3.42,0.230
+R0485,"Sanghvi, Bhatnagar and Dutt Eatery",Kolkata,Italian,4.30,0.255
+R0486,Trivedi Inc Eatery,Bengaluru,Healthy,4.44,0.235
+R0487,Nazareth Ltd Eatery,Ahmedabad,Italian,4.45,0.251
+R0488,Koshy PLC Eatery,Hyderabad,Indian,3.83,0.310
+R0489,Ratta-Sabharwal Eatery,Kolkata,Dessert,4.49,0.273
+R0490,"Raval, Nagarajan and Doctor Eatery",Hyderabad,Fast Food,3.05,0.280
+R0491,Chaudhuri-Rau Eatery,Pune,Chinese,4.12,0.294
+R0492,Kari Ltd Eatery,Hyderabad,Mexican,4.75,0.215
+R0493,Shetty Group Eatery,Mumbai,Dessert,4.44,0.306
+R0494,Devi-Batra Eatery,Bengaluru,Indian,3.62,0.207
+R0495,Menon-Bawa Eatery,Hyderabad,Chinese,4.40,0.250
+R0496,Andra LLC Eatery,Mumbai,Chinese,4.19,0.271
+R0497,"Shetty, Kant and Chaudry Eatery",Delhi,Healthy,4.68,0.330
+R0498,Nagy PLC Eatery,Chennai,Indian,3.57,0.258
+R0499,"Chaudhuri, Pandya and Vasa Eatery",Hyderabad,Mexican,4.22,0.232
+R0500,Rattan-Gala Eatery,Kolkata,Dessert,3.70,0.314
+R0501,"Prasad, Yohannan and Pandey Eatery",Hyderabad,Healthy,4.35,0.257
+R0502,"Pingle, Batta and Swamy Eatery",Mumbai,Healthy,4.39,0.263
+R0503,"Bajwa, Soman and Dugar Eatery",Delhi,Italian,4.21,0.203
+R0504,"Mandal, Toor and Vaidya Eatery",Pune,Indian,3.27,0.286
+R0505,"Sachar, Arora and Jhaveri Eatery",Ahmedabad,Healthy,4.28,0.205
+R0506,Yogi-Kalla Eatery,Delhi,Fast Food,4.74,0.330
+R0507,Ravel-Dhar Eatery,Bengaluru,Dessert,4.77,0.320
+R0508,"Mistry, Aurora and Chowdhury Eatery",Hyderabad,Healthy,3.90,0.255
+R0509,Bhandari Ltd Eatery,Kolkata,Healthy,4.41,0.280
+R0510,Mitter Ltd Eatery,Mumbai,Dessert,4.04,0.314
+R0511,Arya-Nagar Eatery,Kolkata,Chinese,3.24,0.272
+R0512,"Chauhan, Shan and Ganesan Eatery",Bengaluru,Indian,3.48,0.207
+R0513,Ramakrishnan Inc Eatery,Hyderabad,Italian,4.45,0.347
+R0514,Magar-Bhakta Eatery,Bengaluru,Indian,3.72,0.301
+R0515,Munshi-Doctor Eatery,Bengaluru,Indian,3.77,0.305
+R0516,Walla-Baral Eatery,Bengaluru,Italian,4.10,0.247
+R0517,Choudhury and Sons Eatery,Chennai,Indian,3.31,0.330
+R0518,Randhawa-Din Eatery,Kolkata,Dessert,3.52,0.269
+R0519,Aurora-Mitra Eatery,Pune,Fast Food,3.42,0.213
+R0520,Madan LLC Eatery,Bengaluru,Fast Food,4.36,0.332
+R0521,Acharya LLC Eatery,Pune,Mexican,4.31,0.302
+R0522,Mall-Shroff Eatery,Delhi,Italian,4.88,0.342
+R0523,Divan-Mallick Eatery,Hyderabad,Healthy,3.64,0.208
+R0524,Dua PLC Eatery,Kolkata,Mexican,4.77,0.329
+R0525,Mody-Patil Eatery,Bengaluru,Dessert,4.86,0.347
+R0526,"Deol, Bassi and Vyas Eatery",Ahmedabad,Dessert,4.12,0.318
+R0527,Chakraborty PLC Eatery,Hyderabad,Mexican,4.07,0.296
+R0528,Khatri and Sons Eatery,Bengaluru,Dessert,3.22,0.287
+R0529,Gokhale Group Eatery,Bengaluru,Healthy,4.87,0.225
+R0530,"Mukherjee, Date and Sood Eatery",Ahmedabad,Fast Food,4.15,0.263
+R0531,"Hayre, Kumar and Dixit Eatery",Kolkata,Dessert,4.56,0.274
+R0532,Nath LLC Eatery,Hyderabad,Dessert,4.79,0.208
+R0533,"Chad, Lanka and Pandya Eatery",Hyderabad,Indian,3.98,0.309
+R0534,Bali PLC Eatery,Hyderabad,Healthy,3.36,0.282
+R0535,Shukla LLC Eatery,Hyderabad,Indian,3.17,0.296
+R0536,Rao-Kale Eatery,Ahmedabad,Italian,4.87,0.258
+R0537,"Seth, Ramaswamy and Kulkarni Eatery",Mumbai,Healthy,3.84,0.219
+R0538,Gala Group Eatery,Hyderabad,Indian,3.84,0.265
+R0539,Thaker PLC Eatery,Kolkata,Fast Food,3.11,0.274
+R0540,Dixit-Arya Eatery,Kolkata,Chinese,3.52,0.207
+R0541,Gaba Inc Eatery,Delhi,Mexican,3.22,0.327
+R0542,"Raj, Palla and Nadkarni Eatery",Ahmedabad,Dessert,3.56,0.318
+R0543,"Narasimhan, Konda and Sur Eatery",Chennai,Chinese,3.22,0.227
+R0544,Khanna and Sons Eatery,Bengaluru,Dessert,3.11,0.224
+R0545,"Dhaliwal, Sodhi and Kaur Eatery",Ahmedabad,Mexican,3.10,0.335
+R0546,Barad-Arya Eatery,Ahmedabad,Mexican,3.66,0.228
+R0547,"Krishnamurthy, Raman and Pillay Eatery",Ahmedabad,Healthy,3.60,0.270
+R0548,Behl and Sons Eatery,Ahmedabad,Healthy,3.93,0.314
+R0549,Kunda-Pillay Eatery,Hyderabad,Healthy,3.27,0.286
+R0550,"Som, Char and Naik Eatery",Delhi,Indian,4.14,0.283
+R0551,Ganguly PLC Eatery,Ahmedabad,Indian,3.33,0.252
+R0552,"Kata, Suresh and Chopra Eatery",Delhi,Healthy,3.70,0.201
+R0553,Bhatnagar Inc Eatery,Ahmedabad,Fast Food,3.19,0.284
+R0554,Krish-Basak Eatery,Delhi,Fast Food,4.32,0.269
+R0555,Desai-Barad Eatery,Chennai,Indian,3.62,0.232
+R0556,Chahal Inc Eatery,Delhi,Italian,3.95,0.212
+R0557,Sandhu-Morar Eatery,Ahmedabad,Fast Food,3.96,0.274
+R0558,"Sastry, D’Alia and Nagy Eatery",Delhi,Dessert,3.09,0.273
+R0559,"Wagle, Halder and Sura Eatery",Pune,Chinese,4.07,0.324
+R0560,Kara-Palan Eatery,Ahmedabad,Indian,4.24,0.329
+R0561,Sem-Chhabra Eatery,Kolkata,Italian,4.37,0.255
+R0562,"Bobal, Issac and Gera Eatery",Kolkata,Italian,4.51,0.232
+R0563,Chaudhry PLC Eatery,Bengaluru,Italian,3.92,0.288
+R0564,Peri Ltd Eatery,Pune,Italian,4.27,0.278
+R0565,Char-Bakshi Eatery,Bengaluru,Healthy,3.78,0.235
+R0566,"Bala, Misra and Mitra Eatery",Delhi,Chinese,4.29,0.331
+R0567,Sandal Inc Eatery,Chennai,Healthy,3.11,0.230
+R0568,Bail-Pandit Eatery,Kolkata,Indian,3.84,0.273
+R0569,Pant Ltd Eatery,Mumbai,Fast Food,4.69,0.281
+R0570,"Desai, Wali and Pathak Eatery",Bengaluru,Indian,4.28,0.217
+R0571,"Parikh, Sule and Atwal Eatery",Pune,Italian,4.77,0.205
+R0572,Iyengar PLC Eatery,Bengaluru,Italian,4.04,0.230
+R0573,Ramaswamy and Sons Eatery,Delhi,Healthy,3.35,0.263
+R0574,Bail-Murthy Eatery,Pune,Healthy,3.07,0.323
+R0575,Yadav and Sons Eatery,Bengaluru,Fast Food,3.02,0.278
+R0576,Deol and Sons Eatery,Pune,Mexican,3.27,0.329
+R0577,Kapur Inc Eatery,Kolkata,Mexican,4.43,0.210
+R0578,Saini-Prabhakar Eatery,Kolkata,Fast Food,3.91,0.340
+R0579,Dugar-Gandhi Eatery,Mumbai,Dessert,4.04,0.240
+R0580,Sodhi LLC Eatery,Pune,Mexican,3.75,0.200
+R0581,Mittal and Sons Eatery,Ahmedabad,Dessert,3.84,0.341
+R0582,Nadkarni LLC Eatery,Delhi,Mexican,3.68,0.224
+R0583,"Bains, Chana and Sundaram Eatery",Chennai,Mexican,4.04,0.267
+R0584,Dhar and Sons Eatery,Kolkata,Fast Food,4.50,0.215
+R0585,"Balakrishnan, Sathe and Dass Eatery",Mumbai,Fast Food,4.07,0.203
+R0586,"Parmer, Krishnan and Wadhwa Eatery",Bengaluru,Chinese,4.42,0.328
+R0587,Randhawa-Joshi Eatery,Mumbai,Italian,4.76,0.321
+R0588,"Ganesan, Garde and Sha Eatery",Bengaluru,Fast Food,4.27,0.242
+R0589,"Choudhary, Pingle and Dalal Eatery",Bengaluru,Chinese,4.08,0.301
+R0590,Memon Ltd Eatery,Kolkata,Healthy,4.73,0.331
+R0591,Chana LLC Eatery,Pune,Healthy,3.29,0.210
+R0592,"Dutt, Chakrabarti and Hayer Eatery",Chennai,Chinese,3.05,0.313
+R0593,"Halder, Bassi and Sibal Eatery",Hyderabad,Chinese,3.85,0.273
+R0594,Warrior-Johal Eatery,Hyderabad,Italian,3.85,0.242
+R0595,Vasa-Mody Eatery,Mumbai,Indian,3.47,0.257
+R0596,"Sarma, Dugal and Rege Eatery",Mumbai,Healthy,4.60,0.291
+R0597,"Samra, Dani and Doshi Eatery",Mumbai,Dessert,4.01,0.239
+R0598,Guha-Pai Eatery,Chennai,Healthy,4.30,0.265
+R0599,Pandit-Devan Eatery,Pune,Dessert,3.40,0.259
+R0600,"Handa, Thaker and Vig Eatery",Hyderabad,Indian,4.05,0.344
+R0601,Upadhyay-Kulkarni Eatery,Ahmedabad,Healthy,3.40,0.336
+R0602,Sehgal and Sons Eatery,Hyderabad,Chinese,3.63,0.238
+R0603,Saxena Ltd Eatery,Bengaluru,Italian,3.84,0.300
+R0604,"Oak, Apte and Ganesh Eatery",Kolkata,Chinese,4.15,0.212
+R0605,Oak Group Eatery,Ahmedabad,Fast Food,3.05,0.295
+R0606,Wadhwa LLC Eatery,Kolkata,Mexican,4.87,0.202
+R0607,Raju PLC Eatery,Mumbai,Italian,3.69,0.334
+R0608,Dugar-Gaba Eatery,Pune,Chinese,4.66,0.207
+R0609,Varty-Mohanty Eatery,Delhi,Italian,3.26,0.258
+R0610,Sarin Inc Eatery,Chennai,Fast Food,3.97,0.251
+R0611,Nazareth-Kapadia Eatery,Chennai,Indian,4.48,0.280
+R0612,"Roy, Virk and Kulkarni Eatery",Chennai,Dessert,3.51,0.263
+R0613,Mani PLC Eatery,Kolkata,Fast Food,3.85,0.299
+R0614,"Mishra, Naik and Raj Eatery",Ahmedabad,Dessert,4.00,0.233
+R0615,Munshi Inc Eatery,Mumbai,Chinese,3.92,0.272
+R0616,Arya PLC Eatery,Mumbai,Chinese,3.82,0.339
+R0617,Bahl-Oommen Eatery,Ahmedabad,Italian,3.40,0.266
+R0618,"Bhalla, Walia and Choudhary Eatery",Pune,Healthy,4.70,0.304
+R0619,Parikh-Koshy Eatery,Hyderabad,Dessert,4.06,0.349
+R0620,Bakshi-Kara Eatery,Mumbai,Mexican,4.24,0.202
+R0621,"Chawla, Sangha and Misra Eatery",Delhi,Chinese,4.42,0.290
+R0622,Devi-Badal Eatery,Delhi,Chinese,3.31,0.232
+R0623,Bajwa PLC Eatery,Bengaluru,Healthy,4.05,0.275
+R0624,"Gopal, Thakur and Lad Eatery",Bengaluru,Dessert,4.72,0.296
+R0625,Agarwal Ltd Eatery,Pune,Dessert,3.53,0.336
+R0626,Boase Ltd Eatery,Ahmedabad,Indian,3.13,0.298
+R0627,Kala-Sarna Eatery,Hyderabad,Dessert,3.28,0.273
+R0628,"Deo, Sinha and Choudhury Eatery",Delhi,Mexican,4.26,0.309
+R0629,Narain Inc Eatery,Chennai,Healthy,3.87,0.300
+R0630,"Chowdhury, Chawla and Tella Eatery",Pune,Mexican,4.60,0.318
+R0631,Roy-Madan Eatery,Mumbai,Indian,4.79,0.309
+R0632,"Shanker, Sodhi and Agarwal Eatery",Mumbai,Indian,3.94,0.221
+R0633,Kade PLC Eatery,Delhi,Fast Food,3.74,0.200
+R0634,Chacko-Kaur Eatery,Mumbai,Italian,4.24,0.267
+R0635,Dalal-Bumb Eatery,Mumbai,Dessert,4.26,0.245
+R0636,"Dube, Krish and Sharaf Eatery",Hyderabad,Indian,3.41,0.295
+R0637,"Barad, Patla and Andra Eatery",Bengaluru,Mexican,4.46,0.299
+R0638,Vasa-Sastry Eatery,Ahmedabad,Chinese,3.55,0.224
+R0639,"Pillay, Gour and Tandon Eatery",Hyderabad,Indian,3.39,0.332
+R0640,"Wadhwa, Bumb and Tailor Eatery",Chennai,Mexican,4.40,0.337
+R0641,Bhat-Varkey Eatery,Hyderabad,Healthy,3.69,0.275
+R0642,"Mannan, Dhillon and Sani Eatery",Pune,Fast Food,4.61,0.339
+R0643,"Jaggi, Shroff and Bose Eatery",Chennai,Indian,4.74,0.344
+R0644,"Mander, Sehgal and Yogi Eatery",Pune,Mexican,4.19,0.205
+R0645,Oommen Inc Eatery,Pune,Healthy,3.96,0.302
+R0646,Kurian Group Eatery,Delhi,Mexican,3.19,0.269
+R0647,"Prasad, Sami and Palla Eatery",Hyderabad,Indian,3.25,0.258
+R0648,"Dar, More and Baral Eatery",Kolkata,Indian,3.01,0.247
+R0649,Borde PLC Eatery,Bengaluru,Mexican,4.04,0.224
+R0650,Zachariah-Rastogi Eatery,Chennai,Fast Food,4.22,0.348
+R0651,Bhagat-Padmanabhan Eatery,Bengaluru,Mexican,4.01,0.206
+R0652,"Arya, Goswami and Banik Eatery",Delhi,Indian,4.20,0.235
+R0653,"Raman, Hari and Sengupta Eatery",Chennai,Indian,3.80,0.224
+R0654,Chatterjee Inc Eatery,Bengaluru,Fast Food,4.29,0.289
+R0655,Malhotra Group Eatery,Mumbai,Indian,3.84,0.229
+R0656,Wable Inc Eatery,Kolkata,Mexican,4.52,0.247
+R0657,"Kara, Vora and Varma Eatery",Ahmedabad,Mexican,4.38,0.277
+R0658,Vala-Suri Eatery,Delhi,Mexican,4.39,0.302
+R0659,Modi-Nigam Eatery,Mumbai,Healthy,4.07,0.279
+R0660,Muni-Dash Eatery,Chennai,Healthy,4.08,0.213
+R0661,Sengupta Group Eatery,Hyderabad,Indian,4.37,0.327
+R0662,Basak-Mani Eatery,Bengaluru,Mexican,3.15,0.301
+R0663,Kari Inc Eatery,Chennai,Healthy,3.67,0.223
+R0664,"Sangha, Dutt and Varughese Eatery",Delhi,Dessert,3.62,0.218
+R0665,"Cheema, Nadkarni and Singhal Eatery",Delhi,Healthy,4.43,0.303
+R0666,Mander-Shetty Eatery,Kolkata,Italian,3.17,0.292
+R0667,Edwin Group Eatery,Delhi,Italian,4.21,0.223
+R0668,Bera Group Eatery,Chennai,Chinese,4.70,0.252
+R0669,Maharaj Group Eatery,Mumbai,Fast Food,3.24,0.271
+R0670,Khurana-Mitra Eatery,Hyderabad,Fast Food,3.69,0.219
+R0671,Memon-Patel Eatery,Chennai,Indian,3.56,0.204
+R0672,Narayanan Ltd Eatery,Chennai,Indian,3.83,0.312
+R0673,Ramaswamy Inc Eatery,Mumbai,Chinese,3.80,0.346
+R0674,Issac-Choudhury Eatery,Ahmedabad,Fast Food,3.03,0.201
+R0675,Mitter-Malhotra Eatery,Delhi,Fast Food,3.15,0.342
+R0676,Sachdeva-Solanki Eatery,Hyderabad,Fast Food,4.02,0.332
+R0677,Sarkar-Amble Eatery,Delhi,Fast Food,4.16,0.270
+R0678,"Kade, Karan and Goda Eatery",Delhi,Indian,3.11,0.250
+R0679,"Mall, Mittal and Patil Eatery",Bengaluru,Mexican,3.53,0.289
+R0680,Sridhar LLC Eatery,Pune,Mexican,3.36,0.222
+R0681,"Baral, Sarin and Hayre Eatery",Bengaluru,Chinese,3.86,0.259
+R0682,"Pandya, Shetty and Reddy Eatery",Bengaluru,Healthy,3.89,0.260
+R0683,Gera-Natarajan Eatery,Mumbai,Fast Food,4.39,0.237
+R0684,Saraf-Mani Eatery,Pune,Chinese,3.57,0.270
+R0685,Thaker LLC Eatery,Ahmedabad,Chinese,4.38,0.333
+R0686,Ramaswamy-Handa Eatery,Ahmedabad,Mexican,4.26,0.283
+R0687,"Khatri, Chandra and Bala Eatery",Delhi,Fast Food,4.27,0.344
+R0688,"Yogi, Sur and Manda Eatery",Kolkata,Indian,3.47,0.239
+R0689,"Kumar, Wason and Mallick Eatery",Hyderabad,Fast Food,3.60,0.285
+R0690,Sami-Banerjee Eatery,Ahmedabad,Healthy,3.43,0.208
+R0691,"Randhawa, Hari and Sachdeva Eatery",Chennai,Mexican,4.55,0.277
+R0692,"Jaggi, Bali and Panchal Eatery",Bengaluru,Indian,4.84,0.254
+R0693,"Rege, Anne and Nagar Eatery",Mumbai,Mexican,3.74,0.307
+R0694,Lala-Narain Eatery,Kolkata,Indian,4.42,0.231
+R0695,Bhatnagar-Mangat Eatery,Chennai,Dessert,3.23,0.288
+R0696,"Varkey, Tank and Nayar Eatery",Kolkata,Chinese,4.46,0.241
+R0697,"Vala, Brar and Chandra Eatery",Ahmedabad,Italian,4.53,0.268
+R0698,Chauhan-Sandal Eatery,Mumbai,Fast Food,4.83,0.237
+R0699,"Sekhon, Gill and Khurana Eatery",Kolkata,Fast Food,4.09,0.238
+R0700,Chauhan Inc Eatery,Hyderabad,Indian,3.52,0.240
+R0701,"Patla, Master and Vala Eatery",Mumbai,Chinese,3.49,0.345
+R0702,"Sama, Behl and Mukherjee Eatery",Delhi,Mexican,4.08,0.255
+R0703,"Tara, Parekh and Chawla Eatery",Kolkata,Italian,4.75,0.242
+R0704,Johal Ltd Eatery,Pune,Indian,3.68,0.347
+R0705,Naik Ltd Eatery,Kolkata,Italian,3.85,0.226
+R0706,Kota and Sons Eatery,Ahmedabad,Indian,4.71,0.240
+R0707,Keer Inc Eatery,Hyderabad,Italian,3.76,0.295
+R0708,Mahajan-Kohli Eatery,Ahmedabad,Mexican,4.61,0.217
+R0709,"Barad, Som and Dass Eatery",Pune,Healthy,4.66,0.322
+R0710,"Wali, Parmer and Amble Eatery",Hyderabad,Fast Food,3.52,0.326
+R0711,Boase LLC Eatery,Chennai,Healthy,4.83,0.329
+R0712,Palla-Brar Eatery,Delhi,Fast Food,3.23,0.291
+R0713,Ben LLC Eatery,Hyderabad,Chinese,3.57,0.294
+R0714,Setty LLC Eatery,Chennai,Mexican,3.72,0.205
+R0715,Sahni and Sons Eatery,Hyderabad,Indian,4.88,0.244
+R0716,Varkey-Madan Eatery,Pune,Italian,3.70,0.256
+R0717,"Sant, Ramachandran and Bahl Eatery",Ahmedabad,Italian,4.05,0.218
+R0718,Hayre-Bora Eatery,Ahmedabad,Mexican,3.61,0.248
+R0719,Chaudhary Inc Eatery,Kolkata,Chinese,3.26,0.246
+R0720,"Sandal, Sama and Goyal Eatery",Bengaluru,Chinese,4.73,0.297
+R0721,"Raju, Yadav and Cheema Eatery",Kolkata,Dessert,4.82,0.272
+R0722,Chada-Uppal Eatery,Kolkata,Dessert,3.29,0.247
+R0723,Bali-Padmanabhan Eatery,Kolkata,Chinese,4.09,0.231
+R0724,"Mukhopadhyay, Modi and Vasa Eatery",Pune,Healthy,3.00,0.226
+R0725,Chaudhry-Goyal Eatery,Chennai,Indian,3.62,0.271
+R0726,Dhawan-Bobal Eatery,Mumbai,Healthy,4.63,0.338
+R0727,Jaggi-Setty Eatery,Chennai,Italian,4.65,0.200
+R0728,"Ahuja, Halder and Chakraborty Eatery",Delhi,Dessert,3.82,0.237
+R0729,Kumar and Sons Eatery,Bengaluru,Healthy,3.86,0.245
+R0730,Kanda PLC Eatery,Bengaluru,Chinese,4.12,0.219
+R0731,Sanghvi PLC Eatery,Hyderabad,Indian,4.64,0.315
+R0732,Thakkar Inc Eatery,Ahmedabad,Dessert,3.50,0.331
+R0733,Lata-Korpal Eatery,Bengaluru,Indian,3.86,0.321
+R0734,Chaudhry-Mander Eatery,Chennai,Indian,3.50,0.286
+R0735,"Borra, Shere and Boase Eatery",Ahmedabad,Indian,3.28,0.338
+R0736,Oommen-Sahota Eatery,Delhi,Fast Food,3.41,0.345
+R0737,"Batta, Roy and Bassi Eatery",Hyderabad,Mexican,3.47,0.299
+R0738,Pradhan-Ratti Eatery,Chennai,Italian,3.63,0.327
+R0739,"Borde, Ramesh and Sagar Eatery",Bengaluru,Indian,3.36,0.241
+R0740,"Nath, Yadav and Dua Eatery",Bengaluru,Italian,3.23,0.334
+R0741,"Walia, Ravi and Guha Eatery",Bengaluru,Dessert,3.53,0.200
+R0742,Dora PLC Eatery,Bengaluru,Mexican,3.99,0.324
+R0743,"Samra, Bala and Gour Eatery",Chennai,Healthy,4.52,0.201
+R0744,Savant and Sons Eatery,Delhi,Dessert,4.57,0.324
+R0745,Prabhu-Prabhu Eatery,Mumbai,Indian,3.01,0.300
+R0746,Sastry-Bali Eatery,Delhi,Italian,3.01,0.264
+R0747,"Parikh, Nayak and Rau Eatery",Hyderabad,Dessert,4.69,0.330
+R0748,"Behl, Master and Mane Eatery",Pune,Indian,4.52,0.281
+R0749,"Srinivasan, Kohli and Butala Eatery",Bengaluru,Chinese,4.14,0.281
+R0750,Bakshi-Sehgal Eatery,Mumbai,Fast Food,4.03,0.285
+R0751,Bansal LLC Eatery,Kolkata,Italian,4.64,0.254
+R0752,Mane-Contractor Eatery,Hyderabad,Mexican,3.01,0.251
+R0753,Mutti-Pandey Eatery,Delhi,Italian,3.13,0.298
+R0754,Vig PLC Eatery,Kolkata,Mexican,4.47,0.332
+R0755,"Agate, Vig and Vaidya Eatery",Mumbai,Healthy,3.05,0.303
+R0756,Bains-Cheema Eatery,Delhi,Dessert,3.95,0.264
+R0757,Vig LLC Eatery,Kolkata,Fast Food,3.19,0.290
+R0758,Shah-Savant Eatery,Hyderabad,Mexican,3.13,0.245
+R0759,Srivastava PLC Eatery,Kolkata,Fast Food,4.86,0.263
+R0760,"Gandhi, Sastry and Mukhopadhyay Eatery",Bengaluru,Fast Food,3.11,0.214
+R0761,Buch Ltd Eatery,Delhi,Dessert,3.53,0.323
+R0762,Palan Ltd Eatery,Bengaluru,Chinese,3.63,0.312
+R0763,Kale PLC Eatery,Bengaluru,Mexican,3.81,0.212
+R0764,Edwin LLC Eatery,Pune,Indian,4.86,0.318
+R0765,Apte Ltd Eatery,Bengaluru,Indian,3.65,0.262
+R0766,Chad-Comar Eatery,Bengaluru,Dessert,4.01,0.268
+R0767,Bhakta LLC Eatery,Pune,Dessert,3.36,0.311
+R0768,Tiwari Inc Eatery,Pune,Italian,4.80,0.245
+R0769,"Dhillon, Chowdhury and Karpe Eatery",Bengaluru,Chinese,4.79,0.237
+R0770,Khosla PLC Eatery,Delhi,Italian,4.66,0.250
+R0771,"Kulkarni, Grover and Deshmukh Eatery",Chennai,Chinese,3.27,0.222
+R0772,Nadkarni Inc Eatery,Kolkata,Italian,4.67,0.230
+R0773,Swaminathan LLC Eatery,Ahmedabad,Fast Food,3.13,0.252
+R0774,Arora-Nigam Eatery,Bengaluru,Mexican,3.53,0.299
+R0775,Muni LLC Eatery,Bengaluru,Mexican,3.46,0.280
+R0776,Bahri-Dass Eatery,Bengaluru,Indian,4.25,0.325
+R0777,Narayan and Sons Eatery,Kolkata,Dessert,4.13,0.281
+R0778,"Dass, Dhar and Chad Eatery",Ahmedabad,Chinese,4.53,0.319
+R0779,"Bhakta, Lad and Khare Eatery",Ahmedabad,Healthy,3.08,0.206
+R0780,Ratta-Dave Eatery,Bengaluru,Indian,4.11,0.283
+R0781,Gandhi LLC Eatery,Delhi,Indian,4.41,0.235
+R0782,"Tiwari, Bansal and Kanda Eatery",Pune,Fast Food,3.64,0.284
+R0783,Bhargava PLC Eatery,Bengaluru,Dessert,3.53,0.234
+R0784,"Sabharwal, Kala and Sarin Eatery",Chennai,Indian,4.65,0.306
+R0785,Hora-Gade Eatery,Hyderabad,Indian,4.01,0.329
+R0786,Mistry-Savant Eatery,Hyderabad,Fast Food,4.42,0.295
+R0787,Sachdev-Deshmukh Eatery,Bengaluru,Indian,3.35,0.329
+R0788,Kota-Rout Eatery,Mumbai,Indian,3.59,0.249
+R0789,Dada and Sons Eatery,Bengaluru,Italian,4.26,0.264
+R0790,Buch and Sons Eatery,Ahmedabad,Mexican,3.75,0.239
+R0791,Viswanathan Group Eatery,Bengaluru,Fast Food,4.13,0.285
+R0792,Krish-Kant Eatery,Mumbai,Mexican,3.98,0.235
+R0793,Devi-Sundaram Eatery,Kolkata,Mexican,4.10,0.339
+R0794,Balasubramanian PLC Eatery,Kolkata,Mexican,4.87,0.239
+R0795,Bhasin-Pradhan Eatery,Delhi,Dessert,4.67,0.273
+R0796,Nair-Singhal Eatery,Pune,Dessert,3.81,0.202
+R0797,Lalla LLC Eatery,Ahmedabad,Dessert,3.77,0.297
+R0798,Loyal-Karpe Eatery,Ahmedabad,Italian,4.10,0.217
+R0799,Reddy-Agate Eatery,Ahmedabad,Healthy,3.68,0.250
+R0800,"Sachar, Sahota and Sankar Eatery",Pune,Mexican,4.07,0.341
+R0801,"Sekhon, Ghose and Mangat Eatery",Chennai,Italian,4.40,0.275
+R0802,"Ramakrishnan, Khurana and Zacharia Eatery",Bengaluru,Chinese,4.09,0.223
+R0803,"Munshi, Deshpande and Grewal Eatery",Bengaluru,Indian,4.26,0.326
+R0804,"Salvi, Pradhan and Chahal Eatery",Hyderabad,Mexican,3.07,0.294
+R0805,"Singh, Mannan and Choudhary Eatery",Kolkata,Dessert,4.81,0.318
+R0806,"Mitra, Lad and Atwal Eatery",Kolkata,Healthy,4.56,0.276
+R0807,Edwin-Andra Eatery,Pune,Italian,4.07,0.274
+R0808,"Ahuja, Chokshi and Vyas Eatery",Ahmedabad,Healthy,3.92,0.304
+R0809,"Vora, Puri and Upadhyay Eatery",Mumbai,Healthy,4.05,0.238
+R0810,Dube and Sons Eatery,Mumbai,Healthy,3.25,0.207
+R0811,Varkey PLC Eatery,Kolkata,Healthy,3.06,0.241
+R0812,"Memon, Samra and Chadha Eatery",Bengaluru,Healthy,4.08,0.302
+R0813,Kota-Pai Eatery,Hyderabad,Indian,4.43,0.292
+R0814,Saxena and Sons Eatery,Chennai,Healthy,4.34,0.289
+R0815,Bajwa and Sons Eatery,Pune,Healthy,3.18,0.212
+R0816,Goda-Ranganathan Eatery,Mumbai,Italian,3.70,0.216
+R0817,"Yadav, Joshi and Rege Eatery",Pune,Chinese,3.46,0.215
+R0818,Balan PLC Eatery,Delhi,Chinese,4.34,0.279
+R0819,Patel-Chandra Eatery,Kolkata,Italian,3.12,0.306
+R0820,Borra-Mishra Eatery,Ahmedabad,Mexican,3.68,0.226
+R0821,Sami-Ahuja Eatery,Hyderabad,Mexican,3.83,0.282
+R0822,Singh LLC Eatery,Mumbai,Dessert,4.30,0.239
+R0823,Bala Group Eatery,Pune,Mexican,4.23,0.208
+R0824,Krishna-Chana Eatery,Mumbai,Healthy,4.85,0.247
+R0825,Vala Group Eatery,Chennai,Italian,4.50,0.325
+R0826,"Halder, Balan and Sunder Eatery",Delhi,Healthy,4.49,0.275
+R0827,"Chandran, Verma and Basak Eatery",Mumbai,Indian,4.40,0.248
+R0828,Chandra-Dhawan Eatery,Ahmedabad,Mexican,4.49,0.234
+R0829,"Khalsa, Kaur and Behl Eatery",Hyderabad,Dessert,3.66,0.304
+R0830,Patel-Mann Eatery,Pune,Mexican,4.19,0.232
+R0831,Misra PLC Eatery,Delhi,Italian,3.10,0.270
+R0832,Mukhopadhyay Group Eatery,Chennai,Healthy,4.09,0.337
+R0833,Gupta-Pandey Eatery,Chennai,Indian,4.77,0.272
+R0834,Varghese-Parekh Eatery,Delhi,Dessert,4.82,0.245
+R0835,Bandi-Saha Eatery,Hyderabad,Chinese,4.89,0.210
+R0836,Kuruvilla LLC Eatery,Pune,Mexican,3.51,0.303
+R0837,Deo PLC Eatery,Hyderabad,Indian,4.68,0.300
+R0838,Parikh Group Eatery,Pune,Dessert,4.07,0.325
+R0839,Dave-Mukhopadhyay Eatery,Bengaluru,Fast Food,4.31,0.248
+R0840,Chaudhry-Gopal Eatery,Ahmedabad,Fast Food,4.54,0.314
+R0841,Choudhary-Sura Eatery,Hyderabad,Fast Food,3.08,0.308
+R0842,"Shah, Sekhon and Rajagopalan Eatery",Hyderabad,Mexican,3.33,0.277
+R0843,Khosla Ltd Eatery,Delhi,Fast Food,3.97,0.347
+R0844,Padmanabhan-Wason Eatery,Kolkata,Mexican,4.04,0.270
+R0845,"Rastogi, Murthy and Dash Eatery",Chennai,Healthy,4.57,0.222
+R0846,"Desai, Sandal and Sem Eatery",Ahmedabad,Fast Food,3.95,0.323
+R0847,Gaba-Panchal Eatery,Delhi,Italian,4.02,0.285
+R0848,Acharya-Sen Eatery,Delhi,Indian,4.55,0.253
+R0849,Grewal LLC Eatery,Delhi,Indian,3.07,0.265
+R0850,"Bandi, Banik and Golla Eatery",Ahmedabad,Italian,4.30,0.264
+R0851,Sood Ltd Eatery,Delhi,Fast Food,4.53,0.325
+R0852,Raval Inc Eatery,Mumbai,Chinese,4.60,0.291
+R0853,"Jhaveri, Sastry and Hayre Eatery",Pune,Italian,3.31,0.327
+R0854,Madan and Sons Eatery,Delhi,Healthy,3.97,0.282
+R0855,"Munshi, Dash and Kumar Eatery",Delhi,Mexican,3.23,0.248
+R0856,Gokhale-Sant Eatery,Chennai,Fast Food,3.56,0.249
+R0857,"Dube, Srinivas and Chauhan Eatery",Bengaluru,Chinese,3.46,0.339
+R0858,Agarwal-Dixit Eatery,Hyderabad,Mexican,4.69,0.258
+R0859,Salvi-Kadakia Eatery,Hyderabad,Indian,4.30,0.219
+R0860,Tata-Badami Eatery,Bengaluru,Chinese,3.55,0.264
+R0861,"Lal, Sura and Jaggi Eatery",Mumbai,Indian,3.92,0.230
+R0862,Doshi LLC Eatery,Hyderabad,Indian,3.87,0.257
+R0863,"Walla, Saha and Bhardwaj Eatery",Ahmedabad,Fast Food,4.52,0.214
+R0864,"Chhabra, Devan and Zacharia Eatery",Bengaluru,Indian,3.85,0.205
+R0865,"Pandit, Datta and Bala Eatery",Mumbai,Mexican,4.56,0.332
+R0866,Pandey-Saraf Eatery,Hyderabad,Dessert,3.37,0.227
+R0867,Bahri-Gill Eatery,Mumbai,Fast Food,3.02,0.350
+R0868,Jha-Borah Eatery,Chennai,Mexican,4.64,0.228
+R0869,Sandhu LLC Eatery,Kolkata,Indian,4.33,0.227
+R0870,Borra-Jaggi Eatery,Kolkata,Indian,3.58,0.337
+R0871,"Pillay, Iyengar and Hayer Eatery",Hyderabad,Chinese,4.41,0.293
+R0872,"Chandra, Nigam and Thaman Eatery",Pune,Mexican,3.55,0.231
+R0873,"Ratta, Shere and Narain Eatery",Delhi,Healthy,3.20,0.329
+R0874,Thakur-Garde Eatery,Pune,Chinese,4.67,0.248
+R0875,"Manne, Boase and Divan Eatery",Bengaluru,Fast Food,3.62,0.274
+R0876,"Golla, Bandi and Panchal Eatery",Bengaluru,Italian,3.74,0.238
+R0877,Borah-Menon Eatery,Ahmedabad,Fast Food,3.30,0.246
+R0878,"Bhalla, Andra and Sekhon Eatery",Chennai,Fast Food,4.03,0.270
+R0879,Dani PLC Eatery,Hyderabad,Dessert,3.83,0.276
+R0880,Walla-Rattan Eatery,Bengaluru,Italian,3.39,0.291
+R0881,Kakar-Sehgal Eatery,Delhi,Dessert,4.45,0.244
+R0882,"Apte, Chacko and Dhaliwal Eatery",Mumbai,Healthy,3.45,0.347
+R0883,"Karan, Mital and Kothari Eatery",Hyderabad,Healthy,3.27,0.335
+R0884,"Bajwa, Rau and Divan Eatery",Bengaluru,Fast Food,4.26,0.205
+R0885,Mistry-Yadav Eatery,Hyderabad,Mexican,4.46,0.295
+R0886,"Badami, Nath and Bobal Eatery",Chennai,Mexican,4.14,0.324
+R0887,Bains PLC Eatery,Mumbai,Italian,4.29,0.229
+R0888,Walla and Sons Eatery,Bengaluru,Italian,3.17,0.295
+R0889,"Varma, Savant and Brar Eatery",Ahmedabad,Dessert,3.40,0.251
+R0890,Balakrishnan PLC Eatery,Chennai,Mexican,3.36,0.339
+R0891,"Samra, Tandon and Prashad Eatery",Delhi,Indian,4.27,0.218
+R0892,"Vora, Manda and Shanker Eatery",Pune,Dessert,4.14,0.228
+R0893,Rana-Kala Eatery,Hyderabad,Dessert,3.57,0.347
+R0894,"Patla, Dhar and Sehgal Eatery",Kolkata,Indian,4.77,0.339
+R0895,"Seth, Soman and Khare Eatery",Mumbai,Fast Food,3.09,0.255
+R0896,Sen Group Eatery,Ahmedabad,Dessert,3.17,0.350
+R0897,"Tiwari, Palla and Shroff Eatery",Mumbai,Italian,3.78,0.294
+R0898,Sethi-Sarkar Eatery,Chennai,Italian,3.21,0.292
+R0899,"Vig, Srinivas and Nanda Eatery",Chennai,Chinese,3.72,0.216
+R0900,Aurora Group Eatery,Hyderabad,Healthy,3.90,0.275
+R0901,Keer Ltd Eatery,Delhi,Chinese,4.72,0.235
+R0902,Yogi LLC Eatery,Mumbai,Fast Food,4.02,0.304
+R0903,Chander PLC Eatery,Pune,Fast Food,4.00,0.286
+R0904,Bajaj PLC Eatery,Ahmedabad,Fast Food,4.89,0.268
+R0905,"Kota, Sani and Parmer Eatery",Ahmedabad,Italian,3.70,0.281
+R0906,Rajagopal and Sons Eatery,Delhi,Mexican,3.66,0.313
+R0907,Thaman PLC Eatery,Bengaluru,Mexican,4.02,0.208
+R0908,Luthra and Sons Eatery,Kolkata,Italian,3.71,0.201
+R0909,Aggarwal-Divan Eatery,Chennai,Mexican,4.16,0.347
+R0910,"Bandi, Barad and Nagar Eatery",Kolkata,Chinese,4.01,0.236
+R0911,Contractor PLC Eatery,Pune,Italian,3.93,0.271
+R0912,"Vohra, Shah and Sahota Eatery",Kolkata,Dessert,3.54,0.303
+R0913,"Bhargava, Sethi and Mani Eatery",Pune,Italian,3.12,0.210
+R0914,"Kannan, Bhalla and Chaudhuri Eatery",Hyderabad,Dessert,3.71,0.347
+R0915,"Varma, Banik and Chada Eatery",Mumbai,Healthy,3.32,0.271
+R0916,Merchant-Brar Eatery,Chennai,Fast Food,4.67,0.212
+R0917,Sant-Hegde Eatery,Kolkata,Chinese,3.11,0.283
+R0918,Narayan-Pandey Eatery,Hyderabad,Mexican,4.24,0.259
+R0919,"Nagarajan, Sundaram and Bains Eatery",Chennai,Chinese,4.42,0.279
+R0920,Kara-Dar Eatery,Ahmedabad,Fast Food,4.79,0.266
+R0921,"Dube, Mital and Dhaliwal Eatery",Mumbai,Indian,3.75,0.238
+R0922,"Gulati, Nigam and Chaudhuri Eatery",Hyderabad,Mexican,4.28,0.348
+R0923,Johal-Srinivas Eatery,Pune,Fast Food,4.07,0.332
+R0924,Magar Group Eatery,Pune,Mexican,3.13,0.331
+R0925,"Karpe, Brahmbhatt and Bhasin Eatery",Pune,Fast Food,4.39,0.217
+R0926,Kadakia PLC Eatery,Delhi,Indian,3.57,0.340
+R0927,Sama Group Eatery,Ahmedabad,Italian,4.89,0.302
+R0928,"Lalla, Johal and Gokhale Eatery",Ahmedabad,Mexican,3.84,0.284
+R0929,"Vora, Mahal and Dara Eatery",Kolkata,Healthy,3.72,0.252
+R0930,"Soni, Bajaj and Dewan Eatery",Kolkata,Fast Food,3.15,0.294
+R0931,Luthra-Chaudhari Eatery,Chennai,Mexican,4.39,0.226
+R0932,Dixit Inc Eatery,Kolkata,Mexican,3.97,0.329
+R0933,Oommen-Karan Eatery,Delhi,Fast Food,4.62,0.286
+R0934,Shenoy Group Eatery,Pune,Italian,4.54,0.335
+R0935,Vohra Inc Eatery,Kolkata,Italian,3.66,0.215
+R0936,Chauhan-Datta Eatery,Kolkata,Healthy,3.23,0.324
+R0937,"Narayan, Purohit and Konda Eatery",Kolkata,Dessert,3.41,0.284
+R0938,"Bera, Varma and Kant Eatery",Ahmedabad,Indian,3.31,0.235
+R0939,"Saraf, Comar and Mitter Eatery",Chennai,Dessert,3.34,0.287
+R0940,"Handa, Parekh and Dalal Eatery",Pune,Italian,4.51,0.314
+R0941,Bose-Golla Eatery,Pune,Italian,4.88,0.329
+R0942,"Bhargava, Om and Nigam Eatery",Ahmedabad,Mexican,3.93,0.325
+R0943,Chaudhry-Gala Eatery,Kolkata,Indian,4.69,0.255
+R0944,Bumb Group Eatery,Mumbai,Mexican,3.01,0.257
+R0945,"Roy, Hans and Reddy Eatery",Bengaluru,Mexican,4.67,0.272
+R0946,Krishnan and Sons Eatery,Mumbai,Healthy,3.73,0.339
+R0947,Sabharwal Ltd Eatery,Kolkata,Chinese,3.00,0.252
+R0948,Rao-Thakur Eatery,Pune,Italian,3.69,0.272
+R0949,"Goyal, Gala and Chhabra Eatery",Chennai,Fast Food,3.93,0.226
+R0950,"Deep, Kanda and Ravel Eatery",Hyderabad,Healthy,3.66,0.321
+R0951,Bali Group Eatery,Mumbai,Chinese,3.42,0.339
+R0952,Nagarajan Group Eatery,Delhi,Italian,3.10,0.299
+R0953,Keer Ltd Eatery,Delhi,Dessert,3.43,0.299
+R0954,"Singhal, Pal and Comar Eatery",Kolkata,Indian,4.33,0.308
+R0955,Krishna LLC Eatery,Pune,Italian,4.89,0.269
+R0956,"Lad, Lata and Singh Eatery",Mumbai,Dessert,3.26,0.239
+R0957,Dar-Kaul Eatery,Chennai,Healthy,3.82,0.329
+R0958,Bir-Kaur Eatery,Pune,Mexican,4.47,0.244
+R0959,"Khurana, Tailor and Deol Eatery",Pune,Healthy,4.32,0.265
+R0960,"Naidu, Oak and Kaur Eatery",Ahmedabad,Dessert,3.71,0.302
+R0961,Tandon-Hora Eatery,Ahmedabad,Dessert,4.85,0.286
+R0962,"D’Alia, Bhasin and Gara Eatery",Delhi,Healthy,3.45,0.235
+R0963,"Garg, Barman and Rama Eatery",Chennai,Fast Food,4.74,0.237
+R0964,Ravel-Parmar Eatery,Kolkata,Dessert,4.35,0.277
+R0965,Acharya LLC Eatery,Mumbai,Fast Food,3.96,0.252
+R0966,Johal-Mane Eatery,Hyderabad,Healthy,3.72,0.290
+R0967,"Gara, Bera and Sinha Eatery",Hyderabad,Healthy,4.06,0.263
+R0968,"Sabharwal, Thakur and Chakraborty Eatery",Delhi,Healthy,4.83,0.333
+R0969,Kulkarni PLC Eatery,Chennai,Dessert,3.90,0.277
+R0970,Mannan-Sarma Eatery,Kolkata,Italian,3.01,0.288
+R0971,"Sabharwal, Jha and Bhatnagar Eatery",Delhi,Indian,3.98,0.230
+R0972,Kamdar-Parmer Eatery,Pune,Chinese,4.34,0.299
+R0973,Kari-Sengupta Eatery,Mumbai,Indian,3.74,0.300
+R0974,Narayanan-Nayak Eatery,Delhi,Healthy,4.32,0.274
+R0975,"Prabhakar, Lall and Solanki Eatery",Delhi,Dessert,3.35,0.308
+R0976,"Rout, Konda and Grewal Eatery",Chennai,Mexican,3.46,0.344
+R0977,Tata LLC Eatery,Mumbai,Italian,3.65,0.297
+R0978,Venkatesh-Sani Eatery,Chennai,Chinese,3.90,0.329
+R0979,"Issac, Chad and Mane Eatery",Hyderabad,Mexican,4.35,0.206
+R0980,"Venkataraman, Desai and Konda Eatery",Hyderabad,Chinese,3.93,0.283
+R0981,Sankaran-Lal Eatery,Hyderabad,Dessert,3.91,0.251
+R0982,"Chahal, Contractor and Mukhopadhyay Eatery",Kolkata,Healthy,3.98,0.234
+R0983,Dube PLC Eatery,Pune,Indian,3.41,0.331
+R0984,"Seth, Jani and Murthy Eatery",Delhi,Healthy,4.70,0.205
+R0985,Keer-Dalal Eatery,Bengaluru,Chinese,4.31,0.301
+R0986,Batra Group Eatery,Ahmedabad,Chinese,3.80,0.340
+R0987,Ramesh-Doshi Eatery,Pune,Chinese,4.44,0.260
+R0988,Dugal Ltd Eatery,Pune,Italian,3.18,0.320
+R0989,Kata Ltd Eatery,Pune,Indian,4.51,0.251
+R0990,"Nair, Anand and Sangha Eatery",Chennai,Chinese,3.20,0.211
+R0991,Bobal-Rana Eatery,Chennai,Indian,3.58,0.226
+R0992,Vyas-Subramaniam Eatery,Pune,Dessert,3.79,0.220
+R0993,Kamdar and Sons Eatery,Bengaluru,Mexican,4.31,0.266
+R0994,"Minhas, Shroff and Tata Eatery",Ahmedabad,Italian,3.53,0.245
+R0995,"Kaul, Chand and Kari Eatery",Chennai,Italian,4.36,0.278
+R0996,Setty Group Eatery,Kolkata,Dessert,3.21,0.262
+R0997,"Choudhary, Lall and Kale Eatery",Delhi,Dessert,3.81,0.224
+R0998,Apte-Puri Eatery,Ahmedabad,Indian,4.44,0.337
+R0999,"Devan, Nagarajan and Kata Eatery",Hyderabad,Fast Food,4.36,0.200
+R1000,Joshi and Sons Eatery,Ahmedabad,Italian,3.23,0.216

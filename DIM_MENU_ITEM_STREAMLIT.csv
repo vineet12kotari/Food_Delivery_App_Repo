@@ -1,0 +1,96 @@
+MENU_ITEM_ID,ITEM_NAME,CATEGORY,BASE_PRICE
+M001,Samosa (2 Pcs),Appetizer,314.01
+M002,Paneer Tikka,Appetizer,390.98
+M003,Chicken 65,Appetizer,309.23
+M004,Veg Spring Roll,Appetizer,301.34
+M005,French Fries,Appetizer,301.15
+M006,Garlic Bread Sticks,Appetizer,352.04
+M007,Crispy Corn,Appetizer,366.36
+M008,Chicken Biryani,Main Course,789.65
+M009,Mutton Rogan Josh,Main Course,307.46
+M010,Dal Makhani,Main Course,566.86
+M011,Shahi Paneer,Main Course,485.62
+M012,Butter Chicken,Main Course,601.42
+M013,Veg Pulao,Main Course,528.41
+M014,Hyderabadi Biryani,Main Course,510.02
+M015,Kadhai Paneer,Main Course,519.02
+M016,Margherita Pizza,Main Course,790.01
+M017,Veg Burger Deluxe,Main Course,396.79
+M018,Chicken Shawarma Roll,Main Course,595.44
+M019,Gulab Jamun (2 Pcs),Dessert,320.54
+M020,Chocolate Brownie,Dessert,320.59
+M021,Ice Cream Sundae,Dessert,308.49
+M022,Rasgulla,Dessert,320.12
+M023,Kulfi Falooda,Dessert,314.32
+M024,Coca-Cola (300ml),Beverage,186.78
+M025,Fresh Lime Soda,Beverage,219.77
+M026,Masala Chai,Beverage,103.32
+M027,Cold Coffee,Beverage,288.73
+M028,Mineral Water (1L),Beverage,250.71
+M029,Mango Lassi,Beverage,166.01
+M030,DarkOliveGreen Main Course Special,Main Course,409.21
+M031,Bisque Appetizer Special,Appetizer,292.59
+M032,LightSalmon Dessert Special,Dessert,360.29
+M033,LemonChiffon Dessert Special,Dessert,262.27
+M034,Ivory Appetizer Special,Appetizer,310.13
+M035,DarkSlateGray Main Course Special,Main Course,202.32
+M036,DarkKhaki Beverage Special,Beverage,373.44
+M037,YellowGreen Appetizer Special,Appetizer,258.58
+M038,DarkCyan Main Course Special,Main Course,587.32
+M039,Peru Beverage Special,Beverage,596.69
+M040,BlanchedAlmond Appetizer Special,Appetizer,562.90
+M041,Black Beverage Special,Beverage,507.68
+M042,DarkGoldenRod Beverage Special,Beverage,269.06
+M043,IndianRed Main Course Special,Main Course,554.10
+M044,Lavender Dessert Special,Dessert,528.31
+M045,Tan Dessert Special,Dessert,293.67
+M046,Bisque Dessert Special,Dessert,242.85
+M047,Gray Beverage Special,Beverage,550.69
+M048,YellowGreen Dessert Special,Dessert,292.80
+M049,PeachPuff Dessert Special,Dessert,403.27
+M050,Indigo Beverage Special,Beverage,346.13
+M051,RosyBrown Main Course Special,Main Course,226.64
+M052,LightSeaGreen Main Course Special,Main Course,286.07
+M053,AntiqueWhite Dessert Special,Dessert,253.93
+M054,DimGray Main Course Special,Main Course,339.86
+M055,Peru Dessert Special,Dessert,450.97
+M056,MediumSpringGreen Dessert Special,Dessert,289.31
+M058,DeepSkyBlue Dessert Special,Dessert,491.78
+M060,MediumSlateBlue Beverage Special,Beverage,342.82
+M061,DarkKhaki Appetizer Special,Appetizer,560.83
+M063,Olive Appetizer Special,Appetizer,206.07
+M064,DarkGray Main Course Special,Main Course,360.03
+M065,MintCream Dessert Special,Dessert,419.03
+M066,MediumTurquoise Appetizer Special,Appetizer,421.02
+M067,LightGray Main Course Special,Main Course,222.23
+M068,Brown Dessert Special,Dessert,547.80
+M069,Salmon Main Course Special,Main Course,560.88
+M070,WhiteSmoke Main Course Special,Main Course,239.33
+M071,DarkRed Beverage Special,Beverage,322.28
+M072,OldLace Main Course Special,Main Course,404.36
+M073,Cyan Beverage Special,Beverage,309.94
+M074,LightYellow Dessert Special,Dessert,576.23
+M075,MistyRose Main Course Special,Main Course,227.64
+M076,GoldenRod Beverage Special,Beverage,383.88
+M077,CornflowerBlue Main Course Special,Main Course,396.13
+M079,Khaki Main Course Special,Main Course,246.77
+M080,LightSteelBlue Beverage Special,Beverage,490.76
+M081,Cyan Dessert Special,Dessert,262.16
+M082,Lavender Beverage Special,Beverage,440.82
+M083,DarkGreen Appetizer Special,Appetizer,242.23
+M084,Olive Beverage Special,Beverage,216.91
+M086,SaddleBrown Beverage Special,Beverage,418.81
+M087,Moccasin Main Course Special,Main Course,343.86
+M088,DodgerBlue Appetizer Special,Appetizer,454.42
+M089,NavajoWhite Main Course Special,Main Course,530.26
+M090,MidnightBlue Dessert Special,Dessert,274.80
+M091,HoneyDew Appetizer Special,Appetizer,521.46
+M092,LightGreen Dessert Special,Dessert,398.93
+M093,Cornsilk Beverage Special,Beverage,559.50
+M094,FloralWhite Main Course Special,Main Course,362.52
+M095,White Main Course Special,Main Course,308.64
+M096,LemonChiffon Appetizer Special,Appetizer,508.90
+M097,DodgerBlue Main Course Special,Main Course,396.80
+M098,SandyBrown Appetizer Special,Appetizer,439.07
+M099,Olive Dessert Special,Dessert,584.85
+M100,LightPink Appetizer Special,Appetizer,591.55
