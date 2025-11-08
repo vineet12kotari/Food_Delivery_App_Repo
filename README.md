@@ -85,6 +85,12 @@ The repository is structured to enable immediate deployment within the Streamlit
 
 ---
 
+### Screenshots / Demos
+Example: ![Dashboard Preview](https://github.com/vineet12kotari/Food_Delivery_App_Repo/blob/main/Snapshot.png)
+
+--- 
+
 ## 📜 License
 
 Distributed under the MIT License.
+
